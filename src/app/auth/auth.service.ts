@@ -29,7 +29,6 @@ export class AuthService {
   public static FACEBOOK = CognitoHostedUIIdentityProvider.Cognito;
   public static GOOGLE = CognitoHostedUIIdentityProvider.Google;
 
-
   constructor() { 
     
     Hub.listen('auth',(data) => {

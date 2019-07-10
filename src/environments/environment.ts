@@ -7,15 +7,6 @@ export const environment = {
   confirm: {
     email: '',
     password: ''
-  },
-  firebase: {
-    apiKey: "AIzaSyBVhYfjVhq3nlbXKozTgIIAtdOdRPr7yxE",
-    authDomain: "ng301-5d3dd.firebaseapp.com",
-    databaseURL: "https://ng301-5d3dd.firebaseio.com",
-    projectId: "ng301-5d3dd",
-    storageBucket: "ng301-5d3dd.appspot.com",
-    messagingSenderId: "528835334913",
-    appId: "1:528835334913:web:672bbdad85f87cba"
   }
 };
 
